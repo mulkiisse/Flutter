@@ -108,19 +108,19 @@ Add your application screenshots here.
 
 ### 🏠 Home Screen
 
-![MoneyTrack Home](screenshots/home.png)
+![MoneyTrack Home](home.png)
 
 ### 📊 Overview Screen
 
-![MoneyTrack Overview](screenshots/overview.png)
+![MoneyTrack Overview](overview.png)
 
 ### ➕ Add Transaction
 
-![MoneyTrack Add Transaction](screenshots/add.png)
+![MoneyTrack Add Transaction](add.png)
 
 ### 👤 Profile Screen
 
-![MoneyTrack Profile](screenshots/profile.png)
+![MoneyTrack Profile](profile.png)
 
 > Create a `screenshots` folder in the project and place your screenshots inside it using the names above.
 
